@@ -1,0 +1,1 @@
+<strong>  bettech_test_projects &copy; <?php echo date("Y"); ?> </strong> 
